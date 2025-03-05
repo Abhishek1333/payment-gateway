@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Environment Variables
+.env
+*.env
+
+# Virtual Environment
+venv/
+env/
+*.egg-info/
+
+# Migrations
+*.db
+*.sqlite3
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Static & Media
+/media/
+staticfiles/
